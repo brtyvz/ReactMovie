@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "the flash",
+      "rating": 7.9,
+      "overview": "Lorem ipsum dolor sit amet ermfkermfkemvkremkmrkvmkvmkfvmfkvmfkvmffvkfm",
+      "imageURL": "https://www.themoviedb.org/t/p/original/A3H6pewHfoy2bXmNhvycOe0xzlC.jpg"
+    },
+    
+    {
+      "name": "godzilla vs kong",
+      "rating": "8.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "overview": "Süpermen’in nihai fedakarlığının boşuna olmamasını sağlamaya kararlı olan Bruce Wayne, dünyayı felaket oranlarının yaklaşan bir tehdidinden korumak için bir meta insan ekibi oluşturma planlarıyla Diana Prince ile güçlerini birleştirir.",
+      "id": 2
+    }
+  ]
+}
